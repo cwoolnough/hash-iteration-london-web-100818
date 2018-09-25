@@ -16,5 +16,3 @@ end
  
 winner 
 end
-
-winner
